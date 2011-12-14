@@ -1,0 +1,7 @@
+c:\users\david\documents\visual studio 2010\Projects\FootballStatisticsApplication\FootballStatisticsApplication\obj\Debug\ResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2010\Projects\FootballStatisticsApplication\FootballStatisticsApplication\bin\FootballStatisticsApplication.dll
+c:\users\david\documents\visual studio 2010\Projects\FootballStatisticsApplication\FootballStatisticsApplication\bin\FootballStatisticsApplication.pdb
+c:\users\david\documents\visual studio 2010\Projects\FootballStatisticsApplication\FootballStatisticsApplication\bin\EntityFramework.dll
+c:\users\david\documents\visual studio 2010\Projects\FootballStatisticsApplication\FootballStatisticsApplication\bin\EntityFramework.xml
+c:\users\david\documents\visual studio 2010\Projects\FootballStatisticsApplication\FootballStatisticsApplication\obj\Debug\FootballStatisticsApplication.dll
+c:\users\david\documents\visual studio 2010\Projects\FootballStatisticsApplication\FootballStatisticsApplication\obj\Debug\FootballStatisticsApplication.pdb

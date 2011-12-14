@@ -1,0 +1,25 @@
+﻿@using FootballStatisticsApplication.Models
+@model Competition
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@Model.CompetitionName</h2>
+
+<h3>Stand</h3>
+
+<ol>
+    @foreach (Club c in Model.Clubs)
+    {
+        <li>@c.ClubName - @c.MatchPoints</li>
+    }
+</ol>
+
+<h3>Wedstrijden</h3>
+<ul>
+    @foreach (Match m in Model.Matches)
+    {
+        <li>@m.Home - @m.Guest | @m.HomeGoals - @m.GuestGoals</li>
+    }
+</ul>
