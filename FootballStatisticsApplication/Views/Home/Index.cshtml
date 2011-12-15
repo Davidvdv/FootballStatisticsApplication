@@ -20,6 +20,6 @@
 <ul>
     @foreach (Match m in Model.Matches)
     {
-        <li>@m.Home - @m.Guest | @m.HomeGoals - @m.GuestGoals</li>
+        <li>@m.Home.ClubName - @m.Guest.ClubName | @m.HomeGoals - @m.GuestGoals</li>
     }
 </ul>
